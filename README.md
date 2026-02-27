@@ -28,7 +28,7 @@ Make sure you have Python 3 installed.
 
 Clone this repository:
 
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/markivanflorentino05-rgb/snake-game)
+git clone (https://github.com/markivanflorentino05-rgb/snake-game)
 
 Run the game:
 
